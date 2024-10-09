@@ -1,1 +1,1 @@
-# desenvolvendo-um-site-de-assinatura-de-conte-do--Gabriella2C
+# Aluraplus-Gabriella-2C
